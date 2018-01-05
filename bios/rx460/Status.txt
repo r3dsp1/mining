@@ -1,0 +1,9 @@
+430~440H/s
+
+1100MH Clock
+
+2000MH Memory
+
+33.6W Max (Chip only)
+
+0.8875V Max
