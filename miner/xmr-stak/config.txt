@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "stratum+tcp://cryptonight.hk.nicehash.com:3355", "wallet_address" : "35cymqZecLFWC4X2Qcgeyies9GcVGFXTQN.980TIVega56", "pool_password" : "vega", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "stratum+tcp://cryptonight.hk.nicehash.com:3355", "wallet_address" : "35cymqZecLFWC4X2Qcgeyies9GcVGFXTQN.1060", "pool_password" : "vega", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -142,7 +142,7 @@
  * each output line immediately. This can cause delays when running in background.
  * Set this option to true to flush stdout after each line, so it can be read immediately.
  */
-"flush_stdout" : true,
+"flush_stdout" : false,
 
 /*
  * Output file
@@ -160,7 +160,7 @@
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 6464,
+"httpd_port" : 6565,
 
 /*
  * HTTP Authentication

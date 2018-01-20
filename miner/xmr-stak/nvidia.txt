@@ -30,10 +30,9 @@
 
 "gpu_threads_conf" :
 [
-
-      { "index" : 0, "threads" : 8, "blocks" : 60, "bfactor" : 4, "bsleep" :  100, 
-        "affine_to_cpu" : true, "sync_mode" : 0,
-      },
+     { "index" : 0, "threads" : 8, "blocks" : 70, "bfactor" : 6, "bsleep" :  100, 
+      "affine_to_cpu" : false, "sync_mode" : 3,
+     }
 
 ],
 

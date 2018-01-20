@@ -1,0 +1,58 @@
+2018-01-20_03:13	3.1fe	=== Script Started ===
+2018-01-20_03:13	3.1fe	Looking for STAK...
+2018-01-20_03:13	3.1fe	STAK found! Continuing...
+2018-01-20_03:13	3.1fe	Running Video Card Reset
+2018-01-20_03:13	3.1fe	Disabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:14	3.1fe	Enabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:14	3.1fe	1 Video Card(s) Reset
+2018-01-20_03:14	3.1fe	Starting OverdriveNTool.exe -r1 -p11800hs_stable 
+2018-01-20_03:14	3.1fe	Setting Env Variables for STAK
+2018-01-20_03:14	3.1fe	Env Variables for STAK have been set
+2018-01-20_03:14	3.1fe	Starting STAK...
+2018-01-20_03:14	3.1fe	Waiting for STAK HTTP daemon to start
+2018-01-20_03:14	3.1fe	STAK started successfully
+2018-01-20_03:14	3.1fe	Waiting for hash rate to stabilize
+2018-01-20_03:16	3.1fe	Hash rate stabilized
+2018-01-20_03:16	3.1fe	Starting Hashrate: 2598.5 H/s	Drop Target Hashrate: 2498.5 H/s hDiff: 100
+2018-01-20_03:16	3.1fe	Hash monitoring has begun
+2018-01-20_03:17	3.1fe	Restarting after 1 Min - Hash rate dropped from 2598.5 H/s to 2468.3 H/s
+2018-01-20_03:17	3.1fe	=== Script Ended ===
+2018-01-20_03:17	3.1fe	=== Script Started ===
+2018-01-20_03:17	3.1fe	STAK closed successfully
+2018-01-20_03:17	3.1fe	Looking for STAK...
+2018-01-20_03:17	3.1fe	STAK found! Continuing...
+2018-01-20_03:17	3.1fe	Running Video Card Reset
+2018-01-20_03:17	3.1fe	Disabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:17	3.1fe	Enabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:17	3.1fe	1 Video Card(s) Reset
+2018-01-20_03:17	3.1fe	Starting OverdriveNTool.exe -r1 -p11800hs_stable 
+2018-01-20_03:17	3.1fe	Setting Env Variables for STAK
+2018-01-20_03:17	3.1fe	Env Variables for STAK have been set
+2018-01-20_03:17	3.1fe	Starting STAK...
+2018-01-20_03:17	3.1fe	Waiting for STAK HTTP daemon to start
+2018-01-20_03:17	3.1fe	STAK started successfully
+2018-01-20_03:17	3.1fe	Waiting for hash rate to stabilize
+2018-01-20_03:35	3.1fe	=== Script Started ===
+2018-01-20_03:35	3.1fe	Looking for STAK...
+2018-01-20_03:35	3.1fe	STAK found! Continuing...
+2018-01-20_03:35	3.1fe	Running Video Card Reset
+2018-01-20_03:35	3.1fe	Disabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:35	3.1fe	=== Script Started ===
+2018-01-20_03:35	3.1fe	Looking for STAK...
+2018-01-20_03:35	3.1fe	STAK found! Continuing...
+2018-01-20_03:35	3.1fe	Running Video Card Reset
+2018-01-20_03:35	3.1fe	Disabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:36	3.1fe	=== Script Started ===
+2018-01-20_03:36	3.1fe	Looking for STAK...
+2018-01-20_03:36	3.1fe	STAK found! Continuing...
+2018-01-20_03:36	3.1fe	Running Video Card Reset
+2018-01-20_03:36	3.1fe	Disabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:36	3.1fe	Enabled 1 Win32_PnPEntity: Radeon RX Vega (DeviceID = "PCI\VEN_1002&DEV_687F&SUBSYS_6B761002&R...)
+2018-01-20_03:36	3.1fe	1 Video Card(s) Reset
+2018-01-20_03:36	3.1fe	Starting OverdriveNTool.exe -r1 -p11800hs_stable 
+2018-01-20_03:36	3.1fe	Setting Env Variables for STAK
+2018-01-20_03:36	3.1fe	Env Variables for STAK have been set
+2018-01-20_03:36	3.1fe	Starting STAK...
+2018-01-20_03:36	3.1fe	Waiting for STAK HTTP daemon to start
+2018-01-20_03:37	3.1fe	STAK started successfully
+2018-01-20_03:37	3.1fe	Waiting for hash rate to stabilize
