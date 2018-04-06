@@ -22,17 +22,25 @@
  * A filled out configuration should look like this:
  * "gpu_threads_conf" :
  * [
- *     { "index" : 0, "threads" : 8, "blocks" : 60, "bfactor" : 0, "bsleep" :  0, 
+ *     { "index" : 0, "threads" : 17, "blocks" : 60, "bfactor" : 0, "bsleep" :  0, 
  *       "affine_to_cpu" : false, "sync_mode" : 3,
  *     },
  * ],
+ * If you do not wish to mine with your nVidia GPU(s) then use:
+ * "gpu_threads_conf" :
+ * null,
  */
 
 "gpu_threads_conf" :
 [
-     { "index" : 0, "threads" : 8, "blocks" : 70, "bfactor" : 6, "bsleep" :  100, 
-      "affine_to_cpu" : false, "sync_mode" : 3,
-     }
+  // gpu: GeForce GTX 980 Ti architecture: 52
+  //      memory: 5081/6144 MiB
+  //      smx: 22
+  //{ "index" : 0,
+  //  "threads" : 6, "blocks" : 66,
+  //  "bfactor" : 6, "bsleep" :  25,
+  //  "affine_to_cpu" : false, "sync_mode" : 3,
+  //},
 
 ],
 

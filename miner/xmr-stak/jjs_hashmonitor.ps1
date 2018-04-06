@@ -129,12 +129,12 @@ $global:STAKexe = "XMR-STAK.EXE"	# The miner. Expects to be in same folder as th
 #$global:STAKcmdline = "--noNVIDIA"	# STAK arguments. Not required, REMARK out if not needed
 $stakIP = '127.0.0.1'	# IP or hostname of the machine running STAK (ALWAYS LOCAL) Remote start/restart of the miner is UNSUPPORTED.
 						# !! DON'T FORGET TO ENABLE THE WEBSERVER IN YOUR CONFIG FILE !!
-$stakPort = '6565'		# Port STAK is listening on
+$stakPort = '6464'		# Port STAK is listening on
 ##### Start Video Card Management Tools Definitions
 # These will be executed in order prior to the miner
 # Create as many as needed
 #### Vid Tool 1
-$vidTool += 'OverdriveNTool.exe -r1 -p11800hs_stable'	# Expects to be in same folder as this script
+$vidTool += 'OverdriveNTool.exe -r0 -p01800hs_stable'	# Expects to be in same folder as this script
 										# Delete or REMARK if you don't want use it
 #### Vid Tool 2
 #$vidTool += 'nvidiasetp0state.exe'	# Expects to be in same folder as this script
